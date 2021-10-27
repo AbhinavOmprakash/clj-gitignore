@@ -11,3 +11,7 @@ I want this to become the go to gitignore file for clojure projects.
 So this is very much a community project and I want people to contribute and suggest ways to improve this.
 
 And one fine day, if this becomes popular, I'd like to merge it with the standard lein template :)
+
+# To Do
+
+Find a sane way to organize all these extensions.
